@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Jonathan!
 🎓 Computer Science Student at the University of Toronto \
-💻 Currently learning about Artificial Intelligence and System Design \
+💻 Currently learning about artificial intelligence and system design \
 ✉️ Feel free to reach out at jonathan.ginevro@mail.utoronto.ca
 
 ### 🛠️ Tech Stack
