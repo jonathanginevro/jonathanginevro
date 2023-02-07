@@ -1,4 +1,4 @@
-## Hi 👋, I'm Jonathan!
+## Hi, I'm Jonathan!
 🎓 Computer science student at the University of Toronto \
 💻 Currently studying machine learning and system design \
 ✉️ Feel free to reach out at jonathan.ginevro@mail.utoronto.ca
