@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Jonathan!
 🎓 Computer Science Student at the University of Toronto \
-💻 Currently learning about artificial intelligence and system design \
+💻 Currently studying machine learning and system design \
 ✉️ Feel free to reach out at jonathan.ginevro@mail.utoronto.ca
 
 ### 🛠️ Tech Stack
@@ -20,7 +20,7 @@
 
 ### 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/jonathan-ginevro"><img src="https://img.shields.io/badge/-Jonathan%20Ginevro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.jonathanginevro.com"><img src="https://img.shields.io/badge/-jonathanginevro.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:jonathan.ginevro@mail.utoronto.ca"><img src="https://img.shields.io/badge/-jonathan.ginevro@mail.utoronto.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/jonginevro/"><img src="https://img.shields.io/badge/-jonginevro-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jonathan-ginevro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.jonathanginevro.com"><img src="https://img.shields.io/badge/Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>&nbsp;
+<a href="mailto:jonathan.ginevro@mail.utoronto.ca"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/jonginevro/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
