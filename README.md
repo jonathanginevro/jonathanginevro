@@ -2,7 +2,7 @@
 🎓 Computer Science Student at the University of Toronto \
 🤖 SDE Co-op at Amazon Robotics \
 💻 Currently learning about web development, ML and system design \
-✉️ Feel free to reach out and connect!
+✉️ Feel free to reach out and connect anytime!
 
 ### 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-### 🤝 Connect with Me
+### 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/jonathan-ginevro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://www.jonathanginevro.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
