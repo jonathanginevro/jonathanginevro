@@ -1,4 +1,4 @@
-## Hi, I'm Jonathan👋
+## Hi, I'm Jonathan 👋
 🎓 Computer Science Student at the University of Toronto \
 🤖 Software Development Engineer Co-op at Amazon Robotics \
 💻 Currently learning about web development, ML and system design \
