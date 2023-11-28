@@ -1,7 +1,7 @@
 ## Hi, I'm Jonathan 👋
 🎓 Computer Science Student at the University of Toronto \
-🤖 Software Development Engineer Co-op at Amazon Robotics \
-💻 Currently learning about web development, ML and system design \
+🤖 Software Development Engineer Co-op at Amazon \
+💻 Currently learning about web development, system design and machine learning \
 ✉️ Feel free to reach out and connect anytime!
 
 ### 🛠️ Tech Stack
