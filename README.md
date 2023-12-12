@@ -1,8 +1,9 @@
 ## Hi, I'm Jonathan 👋
 🎓 Computer Science Student at the University of Toronto \
 🤖 Software Development Engineer Co-op at Amazon \
-💻 Currently learning about web development, system design and machine learning \
-✉️ Feel free to reach out and connect anytime!
+📚 Currently learning about system design and machine learning \
+🤝 Feel free to reach out and connect via [Email](mailto:jonathan.ginevro@outlook.com) or [Linkedin](https://www.linkedin.com/in/jonathan-ginevro) \
+💻 Personal portfolio at [jonginevro.com](jonginevro.com)
 
 ### 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;
@@ -22,9 +23,3 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp;
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-### 🤝 Connect With Me
-
-<a href="https://www.linkedin.com/in/jonathan-ginevro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://www.jonginevro.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
-<a href="mailto:jonathanginevro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
