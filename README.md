@@ -1,9 +1,8 @@
 ## Hi, I'm Jonathan 👋
 🎓 Computer Science Student at the University of Toronto \
 🤖 Software Development Engineer Co-op at Amazon \
-📚 Currently learning about system design and machine learning \
-🤝 Feel free to reach out and connect via [Email](mailto:jonathan.ginevro@outlook.com) or [Linkedin](https://www.linkedin.com/in/jonathan-ginevro) \
-💻 Personal portfolio at [jonginevro.com](jonginevro.com)
+💻 Personal portfolio at [jonginevro.com](jonginevro.com) \
+🤝 Feel free to reach out and connect via [Email](mailto:jonathan.ginevro@outlook.com) or [Linkedin](https://www.linkedin.com/in/jonathan-ginevro)
 
 ### 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;
