@@ -1,6 +1,6 @@
 ## Hi, I'm Jonathan 👋
 🎓 Computer Science Student at the University of Toronto \
-💻 Previous Software Engineer Intern at Amazon and RBC \
+💻 Previous Software Developer Intern at Amazon and RBC \
 🌐 Personal portfolio at [jonginevro.com](https://www.jonginevro.com) \
 🤝 Feel free to reach out and connect via [Linkedin](https://www.linkedin.com/in/jonathan-ginevro) or [Email](mailto:jonathan.ginevro@outlook.com) 
 
